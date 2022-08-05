@@ -1,0 +1,7 @@
+echo "# yasuyoshi0729" >> README.md
+git init
+gitはREADME.mdを追加します
+git commit -m "最初のコミット"
+gitブランチ-Mメイン
+git remote add origin https://github.com/yasuyoshi0729/yasuyoshi0729.git
+git push -u origin main
